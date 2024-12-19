@@ -16,7 +16,7 @@ class Circle1 extends Shape1{
 		return 2*Math.PI*radius;
 	}
 }
-public class K143_AbstractShape {
+public class AbstractShape {
 
 	public static void main(String[] args) {
 		System.out.println("Abstract Shapes");
